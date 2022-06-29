@@ -1,0 +1,39 @@
+h1 {
+font-size: 50px;
+color: blueviolet;
+font-family: 'Comfortaa', cursive;
+
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    transition: transform .2s;
+}
+
+h2 {
+    font-family: 'Comfortaa', cursive;
+}
+
+p {
+    font-family: 'Comfortaa', cursive;
+}
+
+h5 {
+    font-family: 'Comfortaa', cursive;
+}
+
+img:hover {
+    /* Give transform property to scale to 0.9 */
+    transform: scale(0.9);
+}
+
+iframe {
+    transition: transform .2s;
+}
+
+.book {
+    margin-top: 10px;
+}
